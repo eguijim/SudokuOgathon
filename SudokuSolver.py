@@ -57,7 +57,7 @@ def solve_sudoku(board):
     # Si ha ido bien, se resuelve
     return True
 
-filePath = "C:\\Users\\annie\\Desktop\\DarioMG\\Ogathon\\IO\\Sudoku\\dataset\\3.in"
+filePath = "instance_path"
 
 sudoku = read_sudoku_board(filePath)
 
